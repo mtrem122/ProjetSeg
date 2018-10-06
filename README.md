@@ -1,1 +1,2 @@
 # ProjetSeg
+Arthur Kaboré
