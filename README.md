@@ -1,2 +1,2 @@
 # ProjetSeg
-Erwin Nzia 
+## Valentin Magot 8843488
