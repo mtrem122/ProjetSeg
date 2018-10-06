@@ -1,2 +1,3 @@
 # ProjetSeg
-## Valentin Magot 8843488
+## Collectif yamoukoudji
+
